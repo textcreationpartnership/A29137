@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last will and testament of Iohn Bradshaw, president of the High Court of Iustice with a codicill thereunto annexed.</title>
+            <author>Bradshaw, John, 1602-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29137</idno>
+            <idno type="STC">Wing B4153</idno>
+            <idno type="STC">ESTC R11886</idno>
+            <idno type="EEBO-CITATION">11690205</idno>
+            <idno type="OCLC">ocm 11690205</idno>
+            <idno type="VID">48189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48189)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 484:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last will and testament of Iohn Bradshaw, president of the High Court of Iustice with a codicill thereunto annexed.</title>
+                  <author>Bradshaw, John, 1602-1659.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Ascribed by Wing to Bradshaw.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bradshaw, John, 1602-1659.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48189:1"/>
+            <p>THE LAST WILL AND TESTAMENT OF Iohn Bradſhaw, Preſident of the <hi>High Court of Iustice.</hi>
+            </p>
+            <p>WITH A CODICILL Thereunto Annexed:</p>
+            <q>Hell from beneath is moved to meet thee at thy coming, <bibl>
+                  <hi>Pſal. 14.9.</hi>
+               </bibl>
+            </q>
+            <q>Furor eſt ne moriare mori.</q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48189:2"/>
+            <pb n="3" facs="tcp:48189:2"/>
+            <head>
+               <hi>THE LAST</hi> WILL AND TESTAMENT OF John Bradſhavv.</head>
+            <p>IN the Name of the DEVIL and his DAM, The <hi>Good Old Cauſe,</hi> Amen. I <hi>John Bradſhaw,</hi> the moſt impious Villain the earth ever groan<g ref="char:EOLhyphen"/>ed under, being tormented in Body, with the ap<g ref="char:EOLhyphen"/>parent Symptoms of the Plagues of Hell; but thanks to an evil and affrighted Conſcience of
+<pb n="4" facs="tcp:48189:3"/> bloody Mind, and accurſed Memory, do make and ordain this my laſt WILL and TESTA<g ref="char:EOLhyphen"/>MENT, in manner and form following.</p>
+            <p>
+               <hi>Firſt,</hi> I moſt unwillingly ſurrender my Loath<g ref="char:EOLhyphen"/>ed Soul into his hands that ſeduced it to the Per<g ref="char:EOLhyphen"/>petration of ſo hideous a Murther, being well aſſured to be for ever tormented in HELL, and for that truſting ſolely to my own Merits.</p>
+            <p>
+               <hi>Secondly,</hi> my wretched body I require to be laid on a Herce, <hi>alias</hi> a Hurdle, and to be drawn from <hi>Weſtminſter</hi> through the Streets of <hi>London</hi> to <hi>Tower Hill,</hi> to be moſt ignominiouſly there Interr'd in the Grave of <hi>Miles Sindercombe</hi> (his Corps being firſt thence removed) ſince being too honeſt and noble company for ſuch a <hi>Caytiff.</hi> And for my Worldly Goods and Preferments with which it hath pleaſed the <hi>Devil</hi> and his faithful Servants the <hi>Parliament,</hi> to ſtore me, I do herein diſpoſe of them as foloweth.</p>
+            <p>
+               <hi>First,</hi> I give and bequeath unto the Heirs of my Lord <hi>Cottington,</hi> the Reverſion of his Mannor of <hi>Hanworth</hi> and <hi>Freemantle,</hi> when neither the State nor my Aſſigns can hold it any longer.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my Mannors and Lands in <hi>Cheſhire,</hi> deſcended to me from my Anceſtors to my good Friend and Countryman Sir <hi>Georg Booth</hi> (whom I heartily thank for frighting me to this natural Death) towards the repa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of his Fortu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, or to any one elſe that can find them.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my new made
+<pb n="5" facs="tcp:48189:3"/> Lodgings at the Weſt end of <hi>Weſtminſter</hi> Abbey to any of the preſent Grandees that are climbing and aſpiring to be higheſt, (though I cannot wiſh well to my Coſen <hi>Lambert.</hi>)</p>
+            <p>
+               <hi>Item,</hi> I give one Hundred Groats to Alder<g ref="char:EOLhyphen"/>man <hi>Ireten,</hi> in a grateful remembrance of the damnable advice I had from his Brother, and in reſpect of his own miſchievous ſervice, to the Common-Wealth.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath to my Fellow La<g ref="char:EOLhyphen"/>bourer the Lord Chief Baron <hi>Wild,</hi> my wrought Night-Cap wherein I ſlept ſo ſecure and dread<g ref="char:EOLhyphen"/>leſſe of any direful apparitions, being exceed<g ref="char:EOLhyphen"/>ingly uſeful to him againſt the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aunting of the Ghoſt of innocent Captain <hi>Burleigh.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give and bequeath unto my familiar and cloſe Friend Mrs. <hi>Lenthall</hi> the Speakers La<g ref="char:EOLhyphen"/>dy, as much Scarlet of my High Court of Juſtice Robes, as will make her a Petticoat, to be worn againſt the next Thanksgiving day to be ſolemniſed at Grocers Hall, and the re<g ref="char:EOLhyphen"/>mainder of it to be burnt to powder to cure the ſore throats that Squire DUN will ſhortly make among my Conſorts.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath to the ſilent Speak<g ref="char:EOLhyphen"/>er my Gold trimm'd Gloves being uſed and ac<g ref="char:EOLhyphen"/>cuſtomed to Bribes, being a ſuitable qualifica<g ref="char:EOLhyphen"/>tion for a Maſter of the Rolls.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath unto the Diſhono<g ref="char:EOLhyphen"/>rable <hi>William</hi> Earl of <hi>Salsbury</hi> my black Silk Gar<g ref="char:EOLhyphen"/>ters, that will be fitter for his Neck, than his
+<pb n="6" facs="tcp:48189:4"/> blew Garter is for his Legg.</p>
+            <p>
+               <hi>Item,</hi> The reſt and reſidue of my Apparel I give unto the Hangman to whom of due right they only doe belong.</p>
+            <p>
+               <hi>Item,</hi> I give all my Preferments to my Bro<g ref="char:EOLhyphen"/>ther <hi>Liſle,</hi> having been my Succeſſor in my grand facinorous employment; excepting only the Judgeſhip of the Sheriffs Court, which I would requeſt the Londoners for the great good I have done them, to confert again upon Mr. <hi>Proctor.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I Will and Require my Executors here<g ref="char:EOLhyphen"/>after named, for the perpetuating that moſt in<g ref="char:EOLhyphen"/>famous and abhominable Fact of <hi>Regicidium</hi> to diſpend annually one hundred Pound <hi>Sterling</hi> on an Anniverſary Oration in the Elogie of that Monk that ſtabb'd <hi>Henry</hi> the 3d. of <hi>France.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give one thouſand Marks to any one that will aſſume and bear the name of <hi>Ravilla</hi> in that Kingdom, and ſo <hi>Continuis vicibus,</hi> as of<g ref="char:EOLhyphen"/>ten as the w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eel ſhall bruiſe any of them.</p>
+            <p>
+               <hi>Item,</hi> Five hundred Marks more to the ere<g ref="char:EOLhyphen"/>cting of a ſtately Monument to the glorious me<g ref="char:EOLhyphen"/>mory of <hi>Guy Fawks,</hi> to be placed in the room of the late Tyrant and Traytor <hi>Oliver.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give one thouſand pounds more for the redemption of Turkiſh and Infidel Slaves, ta<g ref="char:EOLhyphen"/>ken by Pirati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al Chriſtians, and that Alderman <hi>Pack</hi> be Tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſurer for it, to whom I Will and Require my Executors to pay the ſame, taking Security that he pay it within ten days after he
+<pb n="7" facs="tcp:48189:4"/> hath cleared his account with the <hi>Piedmont Prote<g ref="char:EOLhyphen"/>ſtants.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I do by all means deſire, and I do hereby ſtreightly charge my Executors that <hi>Peter St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rry</hi> Preach my Funeral Sermon, and that he may (if poſſible) regain his credite. I do command him to lay, <hi>That I am placed at the right hand of the De<g ref="char:EOLhyphen"/>vil.</hi>
+            </p>
+            <p>The reſt and reſidue of all my Goods and Chattels, Lands and Hereditariments, my Eſpe<g ref="char:EOLhyphen"/>cial and Singular Vertues, my Religion, my Charity, my Mercy, I give to my dearly beloved Pimp Mr. <hi>Nedham,</hi> deſiring him, that if he hangs not for his own ſake, he would hang for mine, requeſting my other <hi>Mercury</hi> Mr. <hi>Will. Lilly,</hi> and the above mentioned Eſquire <hi>Dunne,</hi> to be aiding and aſſiſting to him in the execution of the pre<g ref="char:EOLhyphen"/>miſes. Bequeathing unto Mr. <hi>Lilly</hi> a Hempon Chain, which he may either make uſe of himſelf, or ſend as a return to the King of <hi>Sweden.</hi>
+            </p>
+            <closer>
+               <signed>Signed, Sealed, and Declared by the afore<g ref="char:EOLhyphen"/>ſaid <hi>John Bradſhaw</hi> to be his laſt <hi>Will</hi> and <hi>Teſtament.</hi> In preſence of
+<list>
+                     <item>JOHN BRADSHAW.</item>
+                     <item>
+                        <hi>Hugh Peters:</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Nye.</hi>
+                     </item>
+                     <item>
+                        <hi>John Canne.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="codicil">
+            <pb facs="tcp:48189:5"/>
+            <head>
+               <hi>A CODICILL.</hi> The Teſtator adds (which through impenitency, or inco<g ref="char:EOLhyphen"/>gitancy he had omitted in the WILL hereto an<g ref="char:EOLhyphen"/>nexed) theſe following Bequeſts and Legacies.</head>
+            <p>
+               <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em,</hi> I give and bequeath unto the Sollicitor <hi>Cook</hi> the <hi>High Court of Juſtice-Man</hi> my broad Bever Hat (it being G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aw to give it after the Pſalm is ſung) to hide <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>int <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; and becauſe I have no better J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iv <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd beque<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h unto him the Mill<g ref="char:EOLhyphen"/>ſtone <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ention<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Goſpel, to be worn as a ſpecial Ornament in his Hat-band.</p>
+            <p>
+               <hi>Item</hi> I giv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd bequeath a timely <hi>Item</hi> unto the brood of <hi>Doriſtan,</hi> that they fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thwith depart this Kingdom, leſt they ſu<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the ſame at <hi>London,</hi> which their villanous Father deſervedly underw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt in the <hi>Hague.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give and beque<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th unto the Executors of <hi>Ed<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d P<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>aux</hi> my Attorny General this enſuing Cau<g ref="char:EOLhyphen"/>tion, Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t they reſerve the ſixty thouſand pound Bribe-Gold in their Hands for the rebeautifying of <hi>Cheapſide-Croſs:</hi> And for that I will ſpeak with him my ſelf.</p>
+            <p>
+               <hi>Item,</hi> (<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there can be any concluſion) as my laſt Be<g ref="char:EOLhyphen"/>queſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Legacy, would the Small Pox, the French Pox, the P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ague h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d befallen Mr. Recorder <hi>Steel,</hi> and the reſt o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I had medled with them, or their <hi>Good Old Cauſe.</hi> So I begun, and ſo I have ended.</p>
+            <p>For th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> validity and more certain truth of this <hi>Codicil,</hi> I have deſired th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Credentials of Secretary <hi>Thurloe,</hi> to<g ref="char:EOLhyphen"/>gether with a true Copy of <hi>Somners Plot,</hi> to be labelled hereunto.</p>
+            <closer>
+               <signed>
+                  <hi>Sic Teſtator,</hi>
+                  <list>
+                     <item>
+                        <hi>JOHN BRADSHAW.</hi>
+                     </item>
+                     <item>JOHN THUREN</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FI<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>IS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
